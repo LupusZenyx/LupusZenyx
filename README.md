@@ -32,7 +32,7 @@ Yeah, I know my poison:
 
 I work with the following tools and equipment:
 
-- **Machines and Devices: **
+- **Machines and Devices:**
   - MacBook Pro 2017 13"
   - Windows 11 Machine (way too lazy to write all the specs, like who cares anyways?)
   - Graphic Tablet (no i don't code with this, wtf)

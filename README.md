@@ -1,4 +1,5 @@
-# Hi there! 🌟 I'm Tim
+# Hi there! 🌟 I'm
+<img alt="Tim" src="https://readme-typing-svg.herokuapp.com/?lines=Tim;LupusZenyx&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21">
 
 I'm a developer based in Germany, and I love to explore the world of technology. Don't expect me to commit very often, as I am waaay too busy sorting all those forks in my /dish-washer. Here's a little about me:
 
@@ -49,6 +50,5 @@ When I'm not coding, I have a passion for creativity:
 
 ## GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LupusZenyx&layout=compact&langs_count=8&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=LupusZenyx&layout=compact&langs_count=8&theme=dark)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LupusZenyx19878"/>
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LupusZenyx&show_icons=true&count_private=true&theme=dark)](https://github.com/LupusZenyx)

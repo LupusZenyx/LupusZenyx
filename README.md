@@ -1,4 +1,4 @@
-Hi there! 🌟 I'm 
+# Hi there! 🌟 I'm 
 <img alt="Tim" src="https://readme-typing-svg.herokuapp.com/?lines=Tim;Lupus+Zenyx&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21">
 
 

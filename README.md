@@ -49,6 +49,6 @@ When I'm not coding, I have a passion for creativity:
 
 ## GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LupusZenyx&layout=compact&langs_count=8&theme=dark)](https://github.com/LupusZenyx)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LupusZenyx&layout=compact&langs_count=8&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=LupusZenyx&layout=compact&langs_count=8&theme=dark)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LupusZenyx&show_icons=true&count_private=true&theme=dark)](https://github.com/LupusZenyx)

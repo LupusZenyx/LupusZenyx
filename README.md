@@ -48,5 +48,5 @@ When I'm not coding, I have a passion for creativity:
 - 🎨 I enjoy bringing my imagination to life through drawing, both on paper and on my trusty drawing tablet. (No, I won't draw Mr.Big in an excavator)
 
 ## GitHub Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=dark)](https://github.com/your-username)
+[![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=dark)](https://github.com/your-username)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LupusZenyx&show_icons=true&count_private=true&theme=dark)](https://github.com/LupusZenyx)

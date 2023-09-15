@@ -14,17 +14,19 @@ I'm a developer based in Germany, and I love to explore the world of technology.
 ## Programming Languages
 
 Yeah, I know my poison:
-- **Python:** I use Python for tasks ranging from web development with Django to data analysis with libraries like Pandas. I do the wub wub with the numbers
+- **pyton:** I use Python for tasks ranging from web development with Django to data analysis with libraries like Pandas. I do the wub wub with the numbers
 
-- **Ruby:** Ruby is my go-to for scripting and web development with Ruby on Rails. Odin might help you if you're interested.
+- **rubi:** Ruby is my go-to for scripting and web development with Ruby on Rails. Odin might help you if you're interested.
 
-- **HTML + CSS + JavaScript:** I leverage this trio to create interactive web applications. Yes, its mostly websites that do funky stuff.
+- **htm + CSS + JavaScript:** I leverage this trio to create interactive web applications. Yes, its mostly websites that do funky stuff.
 
-- **Swift:** I use Swift for developing powerful and intuitive iOS and macOS applications. Might as well create an app to write this markdown for me.
+- **swuift:** I use Swift for developing powerful and intuitive iOS and macOS applications. Might as well create an app to write this markdown for me.
 
-- **Kotlin:** I'm currently exploring Kotlin and beginning to learn its ins and outs. Tbh I just saw it and thought it was cool.
+- **kocklin:** I'm currently exploring Kotlin and beginning to learn its ins and outs. Tbh I just saw it and thought it was cool.
 
-- **Java:** I only use Java when forced to by school. Mr. Big knows the way of the java-chopper.
+- **ava:** I only use Java when forced to by school. Mr. Big knows the way of the java-chopper.
+
+- **plaintext:** tekken tekken bis zum verecken
 
 ## Tools of the Trade
 

@@ -14,11 +14,11 @@ I'm a developer based in Germany, and I love to explore the world of technology.
 ## Programming Languages
 
 Yeah, I know my poison:
-- **pyton:** I use Python for tasks ranging from web development with Django to data analysis with libraries like Pandas. I do the wub wub with the numbers
+- **paiton:** I use Python for tasks ranging from web development with Django to data analysis with libraries like Pandas. I do the wub wub with the numbers
 
 - **rubi:** Ruby is my go-to for scripting and web development with Ruby on Rails. Odin might help you if you're interested.
 
-- **htm + CSS + JavaScript:** I leverage this trio to create interactive web applications. Yes, its mostly websites that do funky stuff.
+- **htttm + CS + JanaShift:** I leverage this trio to create interactive web applications. Yes, its mostly websites that do funky stuff.
 
 - **swuift:** I use Swift for developing powerful and intuitive iOS and macOS applications. Might as well create an app to write this markdown for me.
 
@@ -33,7 +33,7 @@ Yeah, I know my poison:
 I work with the following tools and equipment:
 
 - **Machines and Devices:**
-  - MacBook Pro 2018 15" (yes i hate the touchbar)
+  - MacBook Pro 2018 15"
   - Windows 11 Machine (way too lazy to write all the specs, like who cares anyways?)
   - Graphic Tablet (no i don't code with this, wtf)
 

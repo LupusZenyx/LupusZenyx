@@ -18,15 +18,15 @@ Yeah, I know my poison:
 
 - **rubi:** Ruby is my go-to for scripting and web development with Ruby on Rails. Odin might help you if you're interested.
 
-- **htttm + CS + JanaShift:** I leverage this trio to create interactive web applications. Yes, its mostly websites that do funky stuff.
+- **htttm + CS + JanaShift:** I leverage this trio to create web applications. Yes, its mostly websites that do funky stuff.
 
 - **swuift:** I use Swift for developing powerful and intuitive iOS and macOS applications. Might as well create an app to write this markdown for me.
 
 - **kocklin:** I'm currently exploring Kotlin and beginning to learn its ins and outs. Tbh I just saw it and thought it was cool.
 
-- **ava:** I only use Java when forced to by school. Mr. Big knows the way of the java-chopper.
+- **ava:** I mainly used Java when forced to by school. Mr. Big knows the way of the java-chopper.
 
-- **plaintext:** tekken tekken bis zum verecken
+- **plaintext:** tekken tekken
 
 ## Tools of the Trade
 
@@ -48,7 +48,7 @@ I work with the following tools and equipment:
 
 When I'm not coding, I have a passion for creativity:
 
-- 📺 Watching interesting content on YouTube.
+- 📺 Watching interesting content on YouTube. 
 - 🎨 I enjoy bringing my imagination to life through drawing, both on paper and on my trusty drawing tablet. (No, I won't draw Mr.Big in an excavator)
 
 ## GitHub Stats

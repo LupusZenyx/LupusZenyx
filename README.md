@@ -20,9 +20,9 @@ Yeah, I know my poison:
 
 - **htttm + CS + JanaShift:** I leverage this trio to create web applications. Yes, its mostly websites that do funky stuff.
 
-- **swuift:** I use Swift for developing powerful and intuitive iOS and macOS applications. Might as well create an app to write this markdown for me.
+- **swuift:** I pretty much abandoned it, swift commits are in the stars atm.
 
-- **kocklin:** I'm currently exploring Kotlin and beginning to learn its ins and outs. Tbh I just saw it and thought it was cool.
+- **kocklin:** I'm currently not really interested but I definetly want to visit Kotlin in the future. Tbh I just saw it and thought it was cool.
 
 - **ava:** I mainly used Java when forced to by school. Mr. Big knows the way of the java-chopper.
 
@@ -35,7 +35,7 @@ I work with the following tools and equipment:
 - **Machines and Devices:**
   - MacBook Pro 2018 15"
   - Windows 11 Machine (way too lazy to write all the specs, like who cares anyways?)
-  - Graphic Tablet (no i don't code with this, wtf)
+  - Graphic Tablet (no i don't code with this, wtf) - Future MS-Paint code commits inbound!
 
 - **Development Environments:**
   - Visual Studio (when forced to)
@@ -48,8 +48,9 @@ I work with the following tools and equipment:
 
 When I'm not coding, I have a passion for creativity:
 
-- 📺 Watching interesting content on YouTube. 
+- 📺 Trying to find the ins and outs of my subscription services. 
 - 🎨 I enjoy bringing my imagination to life through drawing, both on paper and on my trusty drawing tablet. (No, I won't draw Mr.Big in an excavator)
+- 🕯️ And of course lots of private stuff with people I care about.
 
 ## GitHub Stats
 
